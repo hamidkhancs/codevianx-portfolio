@@ -22,11 +22,11 @@ export default function Contact() {
           </p>
           <p className="flex items-center justify-center space-x-3">
             <FaFacebook className="text-blue-400" /> 
-            <span>facebook.com/CodevianX</span>
+            <span><a href="https://www.facebook.com/CodevianX/" target="_blank">CodevianX</a></span>
           </p>
           <p className="flex items-center justify-center space-x-3">
             <FaLinkedin className="text-blue-400" /> 
-            <span>linkedin.com/in/yourprofile</span>
+            <span><a href="https://www.linkedin.com/in/hamidkhancs/" target="_blank">Hamid Khan</a> </span>
           </p>
         </div>
       </div>

@@ -6,7 +6,7 @@ export default function Navbar() {
           CodevianX
         </h1>
 
-        <div className="space-x-6 hidden md:flex font-medium">
+        <div className="space-x-6 hidden md:flex text-1xl font-medium">
           <a href="#about" className="text-gray-300 hover:text-white transition">About</a>
           <a href="#skills" className="text-gray-300 hover:text-white transition">Skills</a>
           <a href="#projects" className="text-gray-300 hover:text-white transition">Projects</a>
